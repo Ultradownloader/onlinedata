@@ -1,0 +1,2 @@
+v0.1 - BETA
+This is still the testing phase! We currently have 0 functioning torrents on our public repository and are working on custom repository setups. Check our GitHub (Ultradownloader) for more info.
